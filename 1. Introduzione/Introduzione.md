@@ -47,6 +47,9 @@
 	- esso è legato alla teoria informatica
 - È una parte di **ingegneria dei sistemi**
 	- legata a SW+HW
+
+<div style="page-break-after: always;"></div>
+
 ### attività fondamentali sviluppo software
 - ==Software specification==
 	- definire nel modo più puntuale possibile funzionalità e attributi non funzionali

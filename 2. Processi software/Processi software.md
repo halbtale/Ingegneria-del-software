@@ -34,7 +34,7 @@
 		- difficoltà di permettere cambiamenti durante il processo
 		- se cambia qualcosa durante lo sviluppo devo rivedere specifiche iniziali
 #### modello agile
-- Processo **NON** determinato all'inizio
+- **NO** pianificazione completa iniziale (principale caratteristica)
 - Pianificazione incrementale
 	- ==outline==
 		- versione minima di requisiti e design
@@ -97,6 +97,9 @@
 	- si validano le specifiche
 	- produce **requirements document**
 ![[Pasted image 20250301092709.png|250]]
+
+<div style="page-break-after: always;"></div>
+
 #### design & implementation
 - Implementazione delle specifiche strutturate
 - ==Design==
@@ -172,6 +175,9 @@
 - ==Process change==
 	- modifica del processo con le ottimizzazioni trovate
 ![[Pasted image 20250301094553.png|200]]
+
+<div style="page-break-after: always;"></div>
+
 #### livelli di maturità dei processi software - sei
 - **Initial**
 	- processo non controllato, caotico
